@@ -1,0 +1,8 @@
+.Board {
+  display: grid;
+  grid-template-columns: repeat(3, 6.2rem);
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+}

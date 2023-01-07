@@ -1,0 +1,15 @@
+.reset-btn {
+  border: none;
+  border-radius: 0.5rem;
+  background-color: rgba(20, 189, 172, 1);
+  color: rgb(0, 0, 0);
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  margin: 2rem auto;
+  display: block;
+  font-family: "Fredoka One", cursive;
+}
+
+.reset-btn:hover {
+  background-color: rgba(20, 189, 172, 0.7);
+}
